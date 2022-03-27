@@ -1,4 +1,4 @@
-# github-test
+# github-test Goldentater is an idiot
 ## this is a test to readme doc
 To start off with, this document is about to explore how to use Github ***markdown*** format correctly. I've got to do some tests here.
 1111111111111111111111111111111111111111111111111111111111111111111
